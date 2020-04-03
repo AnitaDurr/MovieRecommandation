@@ -1,1 +1,7 @@
-Nous avons décidé d'orienter notre projet sur la recommendation de films. 
+Nous avons décidé d'orienter notre projet sur la recommendation de films.
+En effet durant ce confinement, nous avons eu le temps de visionner beaucoup de films,
+mais nous nous sommes rendus compte que nous passions quasiment autant de temps
+à choisir le film qu'à le regarder. D'où la nécessité de créer un système de re-
+commendations afin d'optimiser notre temps de visionnage.
+Nous avons chercher une base de données assez exploitable afin de mener à bien
+notre projet. Nous nous sommes basés sur la base de données de 'The Movies Dataset'.
